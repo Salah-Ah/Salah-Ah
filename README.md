@@ -2,10 +2,6 @@
 🔭 I’m currently working on<br>Building end-to-end data analysis projects using SQL, Power BI, and Excel — cleaning raw data, modeling it, and turning it into dashboards that actually answer business questions.<br><br>👯 I’m looking to collaborate on<br>analytical projects where structured data needs cleaning, modeling, or visualizing. Anything that helps sharpen real-world problem-solving.<br><br>🤝 I’m looking for help with<br>Improving my project structure on GitHub — writing cleaner READMEs, documenting workflows, and organizing analysis steps in a way that’s professional and easy to follow.<br><br>🌱 I’m currently learning<br>A deeper layer of SQL logic, DAX optimization, and Python for data handling. Also getting more comfortable with GitHub workflows as I build public projects.<br><br>💬 Ask me about<br>Power Query transformations, SQL joins/subqueries, structuring dashboards, or turning messy Excel sheets into something that makes sense.<br><br>⚡ Fun fact<br>I’m the kind of person who enjoys making tangled spreadsheets behave. It’s oddly satisfying.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/salah-ahmed-/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahahmedofficial99@gmail.com)
-
 ## 💻 Tech Stack
 
 ### Data Analysis & BI
