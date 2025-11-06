@@ -40,4 +40,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Salah-Ah/Salah-Ah/output/snake.svg" alt="Snake animation"/>
+![snake gif](https://github.com/Salah-Ah/Salah-Ah/blob/output/github-snake-dark.svg)
+
