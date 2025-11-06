@@ -2,8 +2,11 @@
 I’m a Junior Data Analyst who works end-to-end on data problems — cleaning raw datasets, modeling them, and turning the results into clear, practical insights. Most of my work lives in SQL, Power BI, and Excel, with a growing focus on Python for data handling.
 
 🔭 Currently working on: Building analytical projects that answer real business questions through solid cleaning, transformation, and visualization.
+
 🌱 Currently learning: Stronger SQL logic, DAX optimization, and Python to automate parts of the analysis pipeline.
+
 💬 Ask me about: Power Query transformations, building reliable dashboards, or structuring messy data in a way that actually supports decisions.
+
 ✉️ Reach me out: salahahmedofficial99@gmail.com
 
 ## 💻 Tech Stack
